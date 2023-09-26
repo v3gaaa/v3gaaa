@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software engineering student who's passionate about AI and is always eager to learn about the latest technologies. While studying, I've gained skills in object-oriented programming with Python and C++. I'm also currently teaching myself HTML, CSS, and JavaScript to expand my knowledge in web development. I'm interested in pursuing a career in AI and looking for an internship that will help me refine my skills and gain experience in this exciting industry.
+I'm a software engineering student who's passionate about AI and is always eager to learn about the latest technologies. While studying, I've gained skills in object-oriented programming with Python and C++. I'm also currently teaching myself HTML, CSS, and JavaScript to expand my knowledge in web development. I'm interested in pursuing a career in AI and gain experience in this exciting industry.
 
 
 ## 🌐 Socials:
