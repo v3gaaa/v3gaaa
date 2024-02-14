@@ -18,7 +18,6 @@ I'm a software engineering student with a strong passion for artificial intellig
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=v3gaaa&icon=1&color=11)](https://visitcount.itsvg.in)
+---[![](https://visitcount.itsvg.in/api?id=v3gaaa&label=Profile%20Views&color=11&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
